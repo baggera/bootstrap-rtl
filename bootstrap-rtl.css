@@ -5,9 +5,11 @@ body {
  div[class*="col-md-"], div[class*="col-sm-"], div[class*="col-xs-"] div[class*="col-"] {
      float: right;
 }
+
  .navbar-nav{
      padding-right: 0;
 }
+
  .navbar-brand{
      margin: 0;
 }
